@@ -8,8 +8,10 @@ String guess=JOptionPane.showInputDialog("Insert the password to view the secret
 if(guess.equals(password)) {JOptionPane.showMessageDialog(null, name);
 }else{
 	JOptionPane.showMessageDialog(null, "INTRUDER");
+	for(  int i=1; i<10;i++) {
+		System.out.println(1-10);
 }
 	
 }
-	}
+	}}
 

@@ -1,0 +1,21 @@
+1. Fill in the blanks
+String favoriteHobby = "programming";
+_____int_______________ numberOfToes = 10;
+____________int________ degreesInARightAngle = 90;
+_______int_____________ myAge = __10_________________;
+String ____code________________ = "Java";
+double _______int_____________ = 3.14159;
+2. Initialize these variables...
+    String whatIWantToBeWhenIGrowUp = "vet";
+    int facebookFriends = 0;
+    String myBirthday = "september22";
+    int sidesInATriangle = 3;
+3. Declare and initialize variables for...
+   what you got for your birthday
+ String  ­present  = "bike";
+    the last meal you ate
+     ­String cereal = "breakfast";
+   ­ what time you go to bed
+    int time = 8;
+   ­ how many Robot programs you have written
+    int robotPrograms = 4;
