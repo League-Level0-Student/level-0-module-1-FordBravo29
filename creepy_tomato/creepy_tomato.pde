@@ -2,7 +2,7 @@ void setup() {
     size(500, 500);
 }
 void draw() {
-    background(200, 200, 200);
+    background(2, 50, 155);
     noStroke();
     fill(255, 0, 0);
     ellipse(150, 200, 150, 150);
